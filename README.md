@@ -1,1 +1,0 @@
-# kubernets_cluster
