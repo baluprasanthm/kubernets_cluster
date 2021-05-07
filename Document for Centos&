@@ -96,3 +96,10 @@ Get Nodes status
 Get component status
                     kubectl get cs
 HAVE FUN!!
+
+
+
+Kafaka on kubernets
+
+https://redhat-developer-demos.github.io/kafka-tutorial/kafka-tutorial/1.0.x/10-kubernetes.html
+
